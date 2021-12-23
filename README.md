@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @udhayakumar7
 - 👀 I’m interested in ...MERN Stack Development
 - 🌱 I’m currently learning ...
-- 💞️ I’m looking to a job in Stack Development
 - 📫 How to reach me ...Email : "ronaldkumar333@gmail.com"
 
 <!---
