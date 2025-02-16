@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @udhayakumar7
-- 👀 I’m interested in ...MERN Stack Development
-- 🌱 I’m currently learning ...
+- 👀 I’m interested in ...MERN Stack Developer
+- 🌱 consistency is key ...
 - 📫 How to reach me ...Email : "ronaldkumar333@gmail.com"
 
 <!---
